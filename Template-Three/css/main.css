@@ -1585,7 +1585,6 @@ header .container .hidden-menu li a {
 .discount .request form input:not(:last-child):focus {
   caret-color: var(--main-color);
 }
-
 .discount .request form textarea {
   height: 200px;
   resize: none;
